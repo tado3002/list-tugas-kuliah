@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-=======
-# Jum'at, 18 Oktober 2024
-  **1 Bahasa Inggris**
-    => Menghafal daily activity 
-      > S + v1 (min 20)  
-
->>>>>>> refs/remotes/origin/main
 # Senin, 21 Oktober 2024
   **1 Bahasa Indonesia**
     => Persentasi (Kelompok 2)
@@ -13,11 +5,11 @@
     => Makalah dan PPT (kelompok)
 
 # Kamis, 17 Oktober 2024
-  1 Pendidikan Pancasila
+  **1 Pendidikan Pancasila**
     => Persentasi (Kelompok 3)
 
 # Jum'at, 18 Oktober 2024
-  1 Bahasa Inggris
+  **1 Bahasa Inggris**
     => Menghafal daily activity 
       > S + v1 (min 40)  
 
