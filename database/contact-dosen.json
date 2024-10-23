@@ -1,0 +1,53 @@
+{
+  "list": [
+    {
+      "nama": "(Bu Majida)",
+      "matkul": "Logika Matematika",
+      "kontak": "+6289654045040",
+      "whatsapp": "https://wa.me/+6289654045040"
+    },
+    {
+      "nama": "(Bu Wegig)",
+      "matkul": "Bahasa Indonesia",
+      "kontak": "+6283834650689",
+      "whatsapp": "https://wa.me/+6283834650689"
+    },
+    {
+      "nama": "(Pak Gemma)",
+      "matkul": "Praktikum Pemrograman",
+      "kontak": "+6285749661649",
+      "whatsapp": "https://wa.me/+6285749661649"
+    },
+    {
+      "nama": "(Pak Wawan)",
+      "matkul": "P. Sistem Informasi",
+      "kontak": "+6281938020870",
+      "whatsapp": "https://wa.me/+6281938020870"
+    },
+    {
+      "nama": "(Pak Fajar)",
+      "matkul": "Pendidikan Pancasila",
+      "kontak": "+6289680967865",
+      "whatsapp": "https://wa.me/+6289680967865"
+    },
+    {
+      "nama": "(Pak Sunardi)",
+      "matkul": "Manajemen Kepemimpinan",
+      "kontak": "+?",
+      "whatsapp": "https://wa.me/+?"
+    },
+    {
+      "nama": "(Pak Nur)",
+      "matkul": "Bahasa Inggris",
+      "kontak": "+6285331422333",
+      "whatsapp": "https://wa.me/+6285331422333"
+    },
+    {
+      "nama": "(Pak Rasyid)",
+      "matkul": "Algoritma & Pemrograman",
+      "kontak": "+628978812869",
+      "whatsapp": "https://wa.me/+628978812869"
+    }
+  ]
+}
+
