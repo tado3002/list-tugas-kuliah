@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "matkul": {
+      "id": 2,
+      "nama": "Bahasa Indonesia"
+    },
+    "date": "12 Februari 2012",
+    "desc": [
+      "menggambar",
+      "fsafsafsf",
+      "fufufafa"
+    ]
+  },
+  {
+    "id": 2,
+    "matkul": {
+      "id": 3,
+      "nama": "Praktikum Pemrograman"
+    },
+    "date": "12 Februari 2024",
+    "desc": [
+      "sfsdfsgsgs",
+      "sdagfdsgsgs",
+      "sdfsdgsgsgsg"
+    ]
+  },
+  {
+    "id": 3,
+    "matkul": {
+      "id": 3,
+      "nama": "Praktikum Pemrograman"
+    },
+    "date": "12 Februari 2012",
+    "desc": [
+      "fsafsdgsg",
+      "dsafsdf"
+    ]
+  },
+  {
+    "id": 4,
+    "matkul": {
+      "id": 5,
+      "nama": "Pendidikan Pancasila"
+    },
+    "date": "21 April 2024",
+    "desc": [
+      "fsdgsgsgfwsf",
+      "sgsgsgsgs",
+      "werwerwrqrqw"
+    ]
+  },
+  {
+    "id": 5,
+    "matkul": {
+      "id": 8,
+      "nama": "Algoritma & Pemrograman"
+    },
+    "date": "12 Februari 2015",
+    "desc": [
+      "fsdaagfsdgsd",
+      "dsafsgsgsg",
+      "dsfsdgsgga"
+    ]
+  }
+]
