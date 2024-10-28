@@ -32,3 +32,32 @@ export async function get(path) {
     console.error("Terjadi kesalahan:", error);
   }
 }
+export async function getById(path, id) {
+  try {
+    let data = await get(path);
+    const tugas = data.find((tugas) => tugas.id === id);
+    return tugas;
+  } catch (error) {
+    console.log("Terjadi kesalahan:", error);
+  }
+}
+
+export async function deleteById(path, id) {
+  try {
+    let data = await get(path);
+    // hapus tugas berdasarkan id dari data
+    data = data.filter((tugas) => tugas.id !== id);
+    // perbarui data id
+    data = data.map((tugas, index) => {
+      return {
+        ...tugas,
+        id: index + 1,
+      };
+    });
+
+    // replace data json lama
+    await writeFile(path, JSON.stringify(data), "utf8");
+  } catch (error) {
+    console.log("Terjadi kesalahan:", error);
+  }
+}
