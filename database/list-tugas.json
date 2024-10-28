@@ -62,5 +62,57 @@
       "dsafsgsgsg",
       "dsfsdgsgga"
     ]
+  },
+  {
+    "id": 6,
+    "matkul": {
+      "id": 2,
+      "nama": "Bahasa Indonesia"
+    },
+    "date": "12 Maret 2023",
+    "desc": [
+      "Memasak bahan makanan",
+      "membersihkan kamar mandi",
+      "Memberi makan kucing"
+    ]
+  },
+  {
+    "id": 7,
+    "matkul": {
+      "id": 6,
+      "nama": "Manajemen Kepemimpinan"
+    },
+    "date": "12 Februari 2024",
+    "desc": [
+      "Membersihkan celana",
+      "Membersihkan sepatu",
+      "Membersihkan muka"
+    ]
+  },
+  {
+    "id": 8,
+    "matkul": {
+      "id": 4,
+      "nama": "P. Sistem Informasi"
+    },
+    "date": "23 Maret 2023",
+    "desc": [
+      "Memberi makan kucing",
+      "Mengasuh bayi",
+      "Membasuh kedua mata kaki"
+    ]
+  },
+  {
+    "id": 9,
+    "matkul": {
+      "id": 3,
+      "nama": "Praktikum Pemrograman"
+    },
+    "date": "12 Februari 2024",
+    "desc": [
+      "Menghapus papan tulis",
+      "Menghapus masa lalu",
+      "Menghapus masa depan"
+    ]
   }
 ]

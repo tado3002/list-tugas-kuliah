@@ -11,6 +11,9 @@ importers:
       readline-sync:
         specifier: ^1.4.10
         version: 1.4.10
+      terminal-table:
+        specifier: ^0.0.12
+        version: 0.0.12
     devDependencies:
       moment:
         specifier: ^2.30.1
@@ -24,6 +27,13 @@ packages:
   ansi-regex@4.1.1:
     resolution: {integrity: sha512-ILlv4k/3f6vfQ4OoP2AGvirOktlQ98ZEL1k9FaQjxa3L1abBgbuTDAdPOpvbGncC0BTVQrl+OM8xZGK6tWXt7g==}
     engines: {node: '>=6'}
+
+  colors@1.4.0:
+    resolution: {integrity: sha512-a+UqTh4kgZg/SlGvfbzDHpgRu7AAQOmmqRHJnxhRZICKFUT91brVhNNt58CMWU9PsBbv3PDCZUHbVxuDiH2mtA==}
+    engines: {node: '>=0.1.90'}
+
+  eastasianwidth@0.1.1:
+    resolution: {integrity: sha512-jqG4b6XUnaQf0SrCeTi4NVLetPQM44xmkyadAXqaqCQsa2zqy9NWMdSOTNC0reqQ0zj+ePFAIh3TYlcXc6MZLQ==}
 
   moment@2.30.1:
     resolution: {integrity: sha512-uEmtNhbDOrWPFS+hdjFCBfy9f2YoyzRpwcl+DqpC6taX21FzsTLQVbMV/W7PzNSX6x/bhC1zA3c2UQ5NzH6how==}
@@ -39,9 +49,16 @@ packages:
     resolution: {integrity: sha512-DuRs1gKbBqsMKIZlrffwlug8MHkcnpjs5VPmL1PAh+mA30U0DTotfDZ0d2UUsXpPmPmMMJ6W773MaA3J+lbiWA==}
     engines: {node: '>=6'}
 
+  terminal-table@0.0.12:
+    resolution: {integrity: sha512-ZrUKgIEuYoL8u7quZhKSxIfS0e/fBJT5peIr2OGysdbxhXEErETDNnk7mMTC1Ma/TV+PkTgfHT84C/tas0XH0A==}
+
 snapshots:
 
   ansi-regex@4.1.1: {}
+
+  colors@1.4.0: {}
+
+  eastasianwidth@0.1.1: {}
 
   moment@2.30.1: {}
 
@@ -54,3 +71,8 @@ snapshots:
   strip-ansi@5.2.0:
     dependencies:
       ansi-regex: 4.1.1
+
+  terminal-table@0.0.12:
+    dependencies:
+      colors: 1.4.0
+      eastasianwidth: 0.1.1

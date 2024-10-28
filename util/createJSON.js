@@ -21,3 +21,14 @@ export async function append(path, dataJSON) {
     console.error("Terjadi kesalahan:", error);
   }
 }
+export async function get(path) {
+  try {
+    let data = [];
+    const fileContent = await readFile(path, "utf8");
+    data = JSON.parse(fileContent);
+
+    return data;
+  } catch (error) {
+    console.error("Terjadi kesalahan:", error);
+  }
+}
