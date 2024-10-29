@@ -1,1 +1,28 @@
-[{"id":1,"matkul":{"id":5,"nama":"Pendidikan Pancasila"},"date":"12 Maret 2012","desc":["sfsdfsdfsdfs","dsfasdfdsfdsfdsf","dsfdsgsggsgsf"]},{"id":2,"matkul":{"id":8,"nama":"Algoritma & Pemrograman"},"date":"12 April 2012","desc":["fdjdsklhdskjg","4324324324","423094324"]}]
+[
+  {
+    "id": 1,
+    "matkul": {
+      "id": 8,
+      "nama": "Algoritma & Pemrograman"
+    },
+    "date": "12 April 2012",
+    "desc": [
+      "fdjdsklhdskjg",
+      "4324324324",
+      "423094324"
+    ]
+  },
+  {
+    "id": 2,
+    "matkul": {
+      "id": 2,
+      "nama": "Bahasa Indonesia"
+    },
+    "date": "12 Februari 2012",
+    "desc": [
+      "Membersihkan kamar mandi",
+      "Membersihkan kucing",
+      "Membersihkan kamar kecil"
+    ]
+  }
+]
