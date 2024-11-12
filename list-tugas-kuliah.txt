@@ -1,42 +1,46 @@
+====== *Jadwal Tetap* =========
 
-
-===== *Perubahan Jadwal* =========
-
-_*Rabu, 23 Oktober 2024*_
+_*Senin, 18 November 2024*_
   *Logika Matematika*
   => Jam ke 3 (18.30 - selesai WIB)
   _(Bu Majida)_
   _https://wa.me/+6289654045040_
 
+=================================
 
-===== *List Tugas* ==============
-
-_*Kamis, 24 Oktober 2024*_
-  *1 Pendidikan Pancasila*
-    => Persentasi (Kelompok 3)
-  _(Pak Fajar)_
-  _https://wa.me/+6289680967865_
-
-_*Jum'at, 25 Oktober 2024*_
-  *1 Bahasa Inggris*
-    => Menghafal daily activity 
-      > S + v1 (min 40)  
-  _(Pak Nur)_
-  _https://wa.me/+6285331422333_
-        
-
-_*Senin, 28 Oktober 2024*_
+_*Senin, 18 November 2024*_
   *1 Bahasa Indonesia*
-    => Persentasi (Kelompok 3)
+    => Persentasi (Kelompok 4)
   _(Bu Wegig)_
   _https://wa.me/+6283834650689_
+=================================
 
-_*Selasa, 29 Oktober 2024*_
+_*Selasa, 19 Oktober 2024*_
   *1 Pengantar SI*
     => Persentasi (Kel. 3-5) 
       > ppt hasil makalah 
   _(Pak Wawan)_
   _https://wa.me/+6281938020870_
+
+
+====== *List Tugas* ======
+
+_*Kamis, 21 November 2024*_
+  *1 Pendidikan Pancasila*
+    => Persentasi (Kelompok 5)
+  _(Pak Fajar)_
+  _https://wa.me/+6289680967865_
+
+================================
+
+_*Jum'at, 22 November 2024*_
+  ~*1 Bahasa Inggris*~
+    => Menghafal daily activity 
+      > S + v1 (min 40)  
+  _(Pak Nur)_
+  _https://wa.me/+6285331422333_
+
+================================
 
 _*Selama 1 semester*_
   *1 Manajemen Kepimimpinan*
@@ -44,6 +48,6 @@ _*Selama 1 semester*_
       > kirim se-banyak2nya min 5 mnt 
       > jangan video yang sama
       > kirim ke tele pak sunardi
-   ~(Grup Telegram)~
+   _*(Grup Telegram)*_
   https://t.me/+8HKmXXxTSPk1NWY1
   (tele pak Sunardi di Pin grup tele)
